@@ -15,7 +15,7 @@ Alejandro Bonilla Viedma
 - :woman: Gloria Lozano Moreno 
 
 
-Proyecto (código): 
+Proyecto Grupo 8 
 
 Tipo/Género:  
 - [ ] FictionCiberpunk  
