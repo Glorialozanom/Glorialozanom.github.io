@@ -45,11 +45,10 @@ En la carrera de Contabilidad, conoció al que se convertiría en su mejor amigo
 
 ### Historia
 
-Toda esta historia comienza con una ilusión, la ilusion desde pequeño de vivir en Nueva York, un sueño dificil de conseguir debido a su situación económica. Pepe Pistolas, El Pepis es un chico de 26 de Ovideo que ha tenido este sueño y siempre ha sido una persona trabajadora, pero su sueldo solo le ha dado para vivir en el día a día y no ha podido ahorrar para cambiar de lugar. 
+Toda esta historia comienza con una ilusión, la ilusión desde pequeño de vivir en Nueva York, un sueño difícil de conseguir debido a su situación económica. Pepe Pistolas, El Pepis es un chico de 26 de Oviedo que ha tenido este sueño y siempre ha sido una persona trabajadora, pero su sueldo solo le ha dado para vivir en el día a día y no ha podido ahorrar para cambiar de lugar.
+El Pepis siempre ha sido una persona muy ingeniosa al igual que su amigo Gus, el cual tenía el mismo sueño, pero a diferencia de El Pepis, la familia de Gus era una familia adinerada, solo que su familia no le dejaba ir. Ambos bajo el afán por cumplir su sueño idean un plan que es fingir un falso secuestro y para pedir un rescate que les permitiese irse a ambos a vivir a Nueva York. Para no tener problemas legales con otras personas al que iban a secuestrar era a Gus, escondiéndose para pedir a sus propios padres un rescate.
+Este falso secuestro resulta exitoso, obteniendo un rescate mayor del que pensaban, permitiéndoles irse a vivir a Nueva York y además, permitirle ser millonarios hasta el punto de comprar una galería de arte. Estuvieron viviendo tanto El Pepis como Gus, de buena manera en esta ciudad, además la galería les generaba bastantes ingresos, pero estos contaron con mala suerte. Un fatídico día amanecieron con su querida galería en llamas quedándose finalmente con el sueño cumplido, pero con toda su vida rota.
 
-El Pepis siempre ha sido una persona muy ingeniosa al igual qeu su amigo Gus, el cual tenía el mismo sueño, pero a diferencia de El Pepis, la familia de Gus era una familia adinerada, solo que su familia no le dejaba ir. Ambos bajo el afan por cumplir su sueño idean un plan que es fingir un falso secuestro y para pedir un rescate que les permitiese irse a ambos a vivir a Nueva York. Para no tener problemas legales con otras personas al que iban a secuestrar era a Gus, escondiéndose para pedir a sus propios padres un rescate. 
-
-Este falso secuestro resulta exitoso, obteniendo un rescate mayor del que pensaban, permitiendoles irse a vivir a Nueva York y además, permitirle ser millonarios hasta el punto de comprar una galería de arte. Estuvieron viviendo tanto El Pepis como Gus, de buena manera en esta ciudad, además la galería les generaba bastantes ingresos, pero estos contanron con mala suerte. Un fatidico día amanecieron con su querida galería en llamas quedandose finalmente con el sueño cumplido, pero con toda su vida rota.  
 
 
 ### Contexto
