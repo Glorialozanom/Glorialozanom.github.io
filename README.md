@@ -30,7 +30,7 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 
 ### Personaje
 
-![]([img-nobody.png](https://github.com/Glorialozanom/my_storytelling/blob/main/pepis.jpeg))
+![](pepis.jpeg)
 
 - Pepe Pistolas "El Pepis"
 - Gus
