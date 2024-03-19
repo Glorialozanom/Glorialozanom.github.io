@@ -1,9 +1,15 @@
 
 # Falso secuestro: 
-### 
-Un reality de suspense y tragedia
+### Un reality de suspense y tragedia
 
-Autores del proyecto grupo 8:  
+
+Tipo/Género:  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
+- [ ] Comic
+
+
+### Autores del proyecto grupo 8:  
 <!---
 Gloria Lozano Moreno
 María López Pérez
@@ -15,11 +21,6 @@ Alejandro Bonilla Viedma
 - :woman: Gloria Lozano Moreno 
 
 
-
-Tipo/Género:  
-- [ ] FictionCiberpunk  
-- [x] Reality/tribus urbanas  
-- [ ] Comic
 
 
 
