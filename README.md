@@ -75,6 +75,9 @@ En primer lugar, el secuestro falso. Pepe planea un secuestro falso; en este iba
 El segundo conflicto sería cuando ya después de llevar ya en Nueva York unos años, viviendo una vida de lujos, deciden invertir en una galería de arte. Pero justo el día que se inaugura se incendia y pierden todo su dinero (ya que lo habían gastado en las obras de arte y en la construcción de la galería).
 
 
+### Cuestionario de personalidad 
+Falso secuestro: ¿a qué personaje te pareces más?
+https://falsosecuestro.h5p.com/content/1292222835105769527
 
 
 ### Conclusiones/Valoración del equipo
