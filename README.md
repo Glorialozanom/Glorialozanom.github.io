@@ -38,6 +38,10 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 
 - Gustavo "El Gus"
 
+![](Los Padres.jpeg)
+
+- Los padres de Gus 
+
 Se llama Pepe Pistolas. Nació en Oviedo y tiene 26 años. Vivió desde su infancia en esta ciudad. Tuvo una vida sencilla, junto a sus dos hermanos Aarón y Sofía. Su madre, Mónica, era panadera y su padre, Rubén, era profesor de Lengua Castellana y Literatura en el instituto donde él cursó bachiller.
 
 Era un chico aplicado, responsable y que sacaba muy buenas notas. Este gran sentido de la responsabilidad se debía a que tenía grandes aspiraciones y ambiciones. Soñaba con una vida llena de lujos y de grandeza. El sueño de su infancia era tener un Ferrari. Poco a poco, esa ambición exagerada se le empezó a escapar de las manos, no había límites. Haría lo que fuera necesario para lograr sus objetivos.
