@@ -32,7 +32,7 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 
 ![](pepis.jpeg)
 
-- Pepe Pistolas "El Pepis"
+- Pepe Pistolas "El Pepis" :gun:
 
 ![](gus.jpeg)
 
