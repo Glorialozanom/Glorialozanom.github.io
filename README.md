@@ -33,6 +33,9 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 ![](pepis.jpeg)
 
 - Pepe Pistolas "El Pepis"
+
+![](WhatsApp Image 2024-03-19 at 10.07.19.jpeg)
+
 - Gus
 
 Se llama Pepe Pistolas. Nació en Oviedo y tiene 26 años. Vivió desde su infancia en esta ciudad. Tuvo una vida sencilla, junto a sus dos hermanos Aarón y Sofía. Su madre, Mónica, era panadera y su padre, Rubén, era profesor de Lengua Castellana y Literatura en el instituto donde él cursó bachiller.
