@@ -1,6 +1,6 @@
 
-# Proyecto Storytelling (template): 
-### Falso Secuestro
+# Falso secuestro: 
+### 
 Un reality de suspense y tragedia
 
 Autores:  
