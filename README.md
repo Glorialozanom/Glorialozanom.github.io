@@ -34,7 +34,7 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 
 - Pepe Pistolas "El Pepis"
 
-![](WhatsApp Image 2024-03-19 at 10.07.19.jpeg)
+![](gus.jpeg)
 
 - Gus
 
