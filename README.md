@@ -77,20 +77,6 @@ El segundo conflicto sería cuando ya después de llevar ya en Nueva York unos a
 
 
 
-### Cuestionario 
-
-- ¿
-
-- ¿
-
-- ¿
-
-- ¿
-
-- ¿
-
-
-
 
 ### Conclusiones/Valoración del equipo
 
