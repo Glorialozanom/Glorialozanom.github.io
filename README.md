@@ -35,7 +35,7 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 
 ![](gus.jpeg)
 
-- Gus
+- Gustavo "El Gus"
 
 Se llama Pepe Pistolas. Nació en Oviedo y tiene 26 años. Vivió desde su infancia en esta ciudad. Tuvo una vida sencilla, junto a sus dos hermanos Aarón y Sofía. Su madre, Mónica, era panadera y su padre, Rubén, era profesor de Lengua Castellana y Literatura en el instituto donde él cursó bachiller.
 
