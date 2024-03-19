@@ -3,7 +3,7 @@
 ### 
 Un reality de suspense y tragedia
 
-Autores:  
+Autores del proyecto grupo 8:  
 <!---
 Gloria Lozano Moreno
 María López Pérez
@@ -15,7 +15,6 @@ Alejandro Bonilla Viedma
 - :woman: Gloria Lozano Moreno 
 
 
-Proyecto Grupo 8 
 
 Tipo/Género:  
 - [ ] FictionCiberpunk  
