@@ -37,8 +37,7 @@ Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completa
 ![](gus.jpeg)
 
 - Gustavo "El Gus"
-
-![](Los Padres.jpeg)
+  
 
 - Los padres de Gus 
 
