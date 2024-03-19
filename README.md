@@ -1,6 +1,6 @@
 
 # Falso secuestro: 
-### Un reality de suspense y tragedia
+### Un reality de suspense y tragedia :cold_sweat:
 
 
 Tipo/Género:  
