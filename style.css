@@ -17,7 +17,7 @@ body:before {
   content: "";
   height: 0px;
   padding: 0px;
-  border: 130em solid #bcdee7;
+  border: 130em solid #F8F8FF;
   position: absolute;
   left: 50%;
   top: 100%;
@@ -25,9 +25,9 @@ body:before {
   display: block;
   transform: translate(-50%, -50%);
   animation: puff 1s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;
-  background: #bcdee7;
+  background: #9370DB;
   background-size: cover;
-  background-color: #bcdee7;
+  background-color: #F8F8FF;
   background-blend-mode: soft-light;
 }
 
@@ -50,7 +50,7 @@ p {
 }
 
 .profile-card {
-  background: #98FB98;
+  background: #FFFFE0;
   width: 550px;
   height: 156px;
   position: absolute;
@@ -74,7 +74,7 @@ p {
     
   float: left;
   border-right: 2px dashed #D3D3D3;
-  background: #FFFFFF;
+  background: #FFFFF0;
   margin-top: 50px;
   opacity: 0;
   text-align: center;
@@ -106,7 +106,7 @@ p {
   border: 4px solid #FFFFFF;
   transform: scale(0);
   background: linear-gradient(#FF5722 0%, #FF5722 50%, #FF5722 50%, #FF5722 100%);
-  color: #fff;
+  color: #BC8F8F;
   border-radius: 50%;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
   animation: scaleIn 1.3s 1.5s ease forwards;
@@ -118,7 +118,7 @@ p {
   display: inline-block;
   float: right;
   padding: 50px 20px 30px 20px;
-  background: #FFFFFF;
+  background: #FFFFF0;
   margin-top: 50px;
   text-align: center;
   opacity: 0;
@@ -144,7 +144,7 @@ p {
   font-size: 1.8em;
   line-height: 0px;
   text-align: center;
-  color: #fdbbaf;
+  color: #BC8F8F;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -154,9 +154,9 @@ p {
 .social-icons .fa:hover,
 .social-icons .fa:active {
   font-size: 3em;
-  -webkit-box-shadow: 1px 1px 3px #333;
-  -moz-box-shadow: 1px 1px 3px #333;
-  box-shadow: 1px 1px 3px #333;
+  -webkit-box-shadow: 1px 1px 3px #BC8F8F;
+  -moz-box-shadow: 1px 1px 3px #BC8F8F;
+  box-shadow: 1px 1px 3px #BC8F8F;
 }
 
 @keyframes init {
@@ -174,7 +174,7 @@ p {
 
 @keyframes materia {
   0% {
-    background: #E0E0E0;
+    background: #BC8F8F;
   }
   50% {
     border-radius: 4px;
@@ -182,7 +182,7 @@ p {
   100% {
     width: 500px;
     height: 280px;
-    background: #FFFFFF;
+    background: #FFFFF0;
     border-radius: 4px;
   }
 }
@@ -255,7 +255,7 @@ p {
 
   @keyframes materia {
     0% {
-      background: #E0E0E0;
+      background: #BC8F8F;
     }
     50% {
       border-radius: 4px;
@@ -263,7 +263,7 @@ p {
     100% {
       width: 90%;
       height: 90%;
-      background: #FFFFFF;
+      background: #BC8F8F;
       border-radius: 4px;
     }
   }
@@ -285,7 +285,7 @@ p {
 
   @keyframes materia {
     0% {
-      background: #E0E0E0;
+      background: #BC8F8F;
     }
     50% {
       border-radius: 4px;
@@ -293,7 +293,7 @@ p {
     100% {
       width: 95%;
       height: 95%;
-      background: #FFFFFF;
+      background: #BC8F8F;
       border-radius: 4px;
     }
   }
@@ -309,12 +309,12 @@ p {
   text-decoration: none;
   display: relative; 
   letter-spacing: 1px;
-  border: 2px solid #fdbbaf;
+  border: 2px solid #BC8F8F;
   border-radius: 1000px;
   padding: 3px 3px;
   
    animation: pulse 2s infinite 3s cubic-bezier(0.25, 0, 0, 1);
-  box-shadow: 0 0 0 0  #fdbbaf; /* #1F4141; */
+  box-shadow: 0 0 0 0  #BC8F8F; /* #1F4141; */
 }
     
 @keyframes pulse {
@@ -328,5 +328,3 @@ p {
     padding: 25px 25px 25px 25px;
     
     }
-
-
